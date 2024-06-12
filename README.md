@@ -17,4 +17,4 @@ HTML, CSS, Javascript, React.js
 
 **Demo**
 
-Check it [here](https://mybookwishlist.netlify.app/)
+Check it [here](https://mybookwishlist.netlify.app/).
