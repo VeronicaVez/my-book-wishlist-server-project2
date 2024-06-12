@@ -1,4 +1,4 @@
-** My Book Wishlist **
+**My Book Wishlist**
 
 My Book Wishlist is a website for book enthusiasts to manage their reading preferences! Users can track whether they have already read a book, rate it, mark books they are currently reading, and add new books to their wishlist.
 
@@ -15,6 +15,6 @@ HTML, CSS, Javascript, React.js
 | PUT       | /books/:bookId | JSON         | Edits the specified book             |
 | DELETE    | /books/:bookId |              | Deletes the specified book           |
 
-** Demo **
+**Demo**
 
 Check it [here](https://mybookwishlist.netlify.app/)
